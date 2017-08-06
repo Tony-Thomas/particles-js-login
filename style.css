@@ -1,4 +1,5 @@
 #particles-js {
     background: firebrick;
-    height: 400px;
+    height: 100vh;
+    width: 100vw;
 }
