@@ -1,0 +1,16 @@
+{
+    "particles":{
+        "number":{
+            "value": 100
+        },
+        "color":{
+            "value": "#fff"
+        },
+        "shape":{
+            "type":"image",
+            "image":{
+                "src":"http://www.freeiconspng.com/uploads/world-icon-png-6.png"
+            }
+        }
+    }
+}
